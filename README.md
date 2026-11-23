@@ -1,2 +1,16 @@
-# Image-Steganography-LSB
-Developed a steganography application that hides secret text inside BMP image files using Least Significant Bit (LSB) encoding. The system encodes the length and content of the secret message into image bytes and retrieves it through a decoding process while preserving the original image appearance.
+Image Steganography using LSB Encoding and Decoding
+Project Brief
+Developed a steganography application that hides secret text inside BMP image files using LSB encoding and decoding techniques.
+
+Technologies Used
+C
+File Handling
+Pointers
+Bitwise Operations
+Makefile
+Command Line Arguments
+Key Learnings
+BMP image structure
+Bitwise manipulation
+Data hiding techniques
+File operations
